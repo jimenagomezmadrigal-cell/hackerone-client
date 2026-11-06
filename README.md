@@ -1,4 +1,5 @@
-# Hackerone::Client
+# Hackerone::alejavcmgahurremstar23@gmail.com
+
 
 A limited client library for interacting with HackerOne in Ruby. Currently supports a few operations:
 
